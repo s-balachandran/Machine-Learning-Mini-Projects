@@ -5,10 +5,11 @@ This is a collection of Jupyter notebooks which I have worked on as a way to pra
  
 All the datasets are available on kaggle (links within notebooks).
 
-If the notebooks are not loading properly, please copy the URL for the notebook and enter it in this website: 
+If the notebooks are not loading quickly, you can view the notebooks on my [Kaggle profile](https://www.kaggle.com/KaggleUser654/notebooks).
+
+Alternatively, please copy the URL for the notebook and enter it in this website: 
 [nbviewer](https://nbviewer.jupyter.org/). It should render then. 
 
-Alternatively, you can view the notebooks on my [Kaggle profile](https://www.kaggle.com/KaggleUser654/notebooks).
 
 The projects are:
 
